@@ -8,11 +8,6 @@ This can be tested without visiting the site b pointing the camera at the photo 
 
 To test:
 
-On a Desktop:
-Navigate to Franks website
-https://www.frankstyles.com/
-
-
 On your Mobile:
 Navigate to POC app
 https://frankstyles.herokuapp.com/
